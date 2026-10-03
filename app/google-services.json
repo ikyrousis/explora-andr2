@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "275636872643",
+    "firebase_url": "https://andr2project-ad214-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "andr2project-ad214",
+    "storage_bucket": "andr2project-ad214.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275636872643:android:3b6dd16d008464f105c976",
+        "android_client_info": {
+          "package_name": "com.example.andr2project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275636872643-sojnkuuqd9jick98qrj8fbevkhh33qda.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjkSYTrYD6RasfnoZC9YKMqVNWPDdzA4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275636872643-sojnkuuqd9jick98qrj8fbevkhh33qda.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

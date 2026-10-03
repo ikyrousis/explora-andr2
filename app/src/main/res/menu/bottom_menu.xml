@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_homeBB"
+        android:icon="@drawable/ic_home_black_24dp"
+        tools:ignore="MenuTitle" />
+    <item
+        android:id="@+id/menu_mapBB"
+        android:icon="@drawable/ic_baseline_supervisor_account_24"
+        tools:ignore="MenuTitle" />
+    <item
+        android:id="@+id/menu_profileBB"
+        android:icon="@drawable/ic_baseline_person_outline_24"
+        tools:ignore="MenuTitle" />
+
+    <item
+        android:id="@+id/menu_hamburgerBB"
+        android:icon="@drawable/ic_baseline_menu_24"
+        tools:ignore="MenuTitle" />
+
+</menu>
